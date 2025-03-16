@@ -1,2 +1,1 @@
-# Sus
-for educational purposes
+Lets start
